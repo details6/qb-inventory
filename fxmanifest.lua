@@ -18,11 +18,11 @@ server_scripts {
 client_script 'client/main.lua'
 
 ui_page {
-    'ui.html'
+    'html/ui.html'
 }
 
 files {
-    'ui.html',
+    'html/ui.html',
     'html/css/main.css',
     'html/js/app.js',
     'html/images/*.png',
